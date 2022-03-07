@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909245191199",
+    "project_id": "payflow-calera",
+    "storage_bucket": "payflow-calera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909245191199:android:54eef4251d0bca47cb312a",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909245191199-oela409gcgm2601dkklkn1luih8aq0jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "8be9b1825c7b590b04dad17e720b4215377a5e53"
+          }
+        },
+        {
+          "client_id": "909245191199-ngsie3jnn2l0bo7e0tpnea71n5nndi6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVOshjhVWNbgRj-Xg30J0YAJuk0c6hRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909245191199-ngsie3jnn2l0bo7e0tpnea71n5nndi6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
